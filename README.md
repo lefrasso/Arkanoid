@@ -45,8 +45,8 @@ A modern implementation of the classic Arkanoid/Breakout game built with HTML5, 
 ### Running Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/lefrasso/arkanoid-game.git
-   cd arkanoid-game
+   git clone https://github.com/lefrasso/Arkanoid.git
+   cd Arkanoid
    ```
 
 2. Open with a local server:
@@ -96,7 +96,7 @@ You can also open `index.html` directly in your browser, though some features ma
 
 ### File Structure
 ```
-arkanoid-game/
+Arkanoid/
 ├── index.html          # Main HTML structure
 ├── style.css           # All styling and themes
 ├── script.js           # Game logic and mechanics
@@ -129,7 +129,7 @@ arkanoid-game/
 1. Push your code to a GitHub repository
 2. Go to repository Settings → Pages
 3. Select source branch (usually `main`)
-4. Your game will be available at `https://lefrasso.github.io/arkanoid-game`
+4. Your game will be available at `https://lefrasso.github.io/Arkanoid`
 
 ### Azure Static Web Apps
 1. Connect your GitHub repository to Azure Static Web Apps
